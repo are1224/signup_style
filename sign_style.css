@@ -1,0 +1,12 @@
+body{
+    background-color: slategray;
+}
+
+form input{
+    font-size: 40%;
+    color:rosybrown;
+}
+
+form textarea{
+    background-color: rgba(0,1168,70,0.3);
+}
